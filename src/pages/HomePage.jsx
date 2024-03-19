@@ -12,6 +12,7 @@ const HomePage = () => {
 
   return (
     <>
+      <p>HEllllllllllllllo</p>
       {/* <HeicHandler autoplay /> */}
 
       {/* <p>Counter: {timeValue}</p> */}
